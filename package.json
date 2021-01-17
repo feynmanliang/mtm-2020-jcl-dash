@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@zowe/imperative": "^4.10.2",
+    "@zowe/zos-jobs-for-zowe-sdk": "^6.25.1",
+    "@zowe/zosmf-for-zowe-sdk": "^6.25.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socket.io": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.11",
+    "@types/node": "^14.14.21",
+    "@types/socket.io": "^2.1.12",
+    "typescript": "^4.1.3"
+  }
+}
